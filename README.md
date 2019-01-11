@@ -13,3 +13,7 @@ E-land orchil only naivee vm
 ## 长期投入和信用飞轮
 
 应用的核心竞争力
+
+## JS 写法 java 化
+
+这是一个趋势
